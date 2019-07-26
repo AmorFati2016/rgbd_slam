@@ -14,6 +14,10 @@ link_directories(${PROJECT_SOURCE_DIR}/lib)
 
 message("-- FIND OPENCV LIBRARY")
 find_package(OpenCV REQUIRED)
+link_libraries(${OpenCV_LIBRARIES})
+include_directories(${OpenCV_INCLUDE_DIRS})
+
+find_package(Eigen REQUIRED)
 
 message("-- FIND PCL LIBRARY")
 find_package(PCL REQUIRED)

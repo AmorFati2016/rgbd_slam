@@ -1,5 +1,0 @@
-/home/payne/code/rgbd_slam/build/CMakeFiles/edit_cache.dir
-/home/payne/code/rgbd_slam/build/CMakeFiles/rebuild_cache.dir
-/home/payne/code/rgbd_slam/build/src/CMakeFiles/rebuild_cache.dir
-/home/payne/code/rgbd_slam/build/src/CMakeFiles/edit_cache.dir
-/home/payne/code/rgbd_slam/build/src/CMakeFiles/main.dir
